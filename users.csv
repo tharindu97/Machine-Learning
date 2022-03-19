@@ -130,7 +130,7 @@ Timestamp,Gender,Age Range,Occupation,Monthly Income Range,Laptop Brand,RAM,Proc
 3/9/2022 21:38:17,Female,10 - 20,Student,Unpaid,Dell,16GB,Dual Core,512GB
 3/9/2022 21:45:28,Male,21 - 30,Senior software engineer,More than 250k,Apple,16GB,Intel Core i7,0
 3/9/2022 21:46:07,Male,10 - 20,Student,Unpaid,Asus,8GB,Intel Core i3,512GB
-3/9/2022 21:51:11,Male,21 - 30,Undergraduate,Unpaid,Asus,12,Intel Core i3,1TB
+3/9/2022 21:51:11,Male,21 - 30,Undergraduate,Unpaid,Asus,12GB,Intel Core i3,1TB
 3/9/2022 21:56:57,Female,10 - 20,Student,Unpaid,Dell,8GB,AMD Ryzen 5,512GB
 3/9/2022 22:03:10,Male,21 - 30,Undergraduate,Unpaid,MSI,8GB,Intel Core i7,1TB
 3/9/2022 22:07:33,Male,21 - 30,Undergraduate,10k - 50k,Asus,8GB,Intel Core i5,1TB
@@ -143,9 +143,9 @@ Timestamp,Gender,Age Range,Occupation,Monthly Income Range,Laptop Brand,RAM,Proc
 3/9/2022 22:55:04,Male,21 - 30,Software engineer,More than 250k,Lenovo,16GB,Intel Core i7,512GB
 3/9/2022 23:00:23,Female,21 - 30,Public Service Officer ,10k - 50k,HP,8GB,Dual Core,512GB
 3/9/2022 23:24:46,Male,21 - 30,Technical lead,More than 250k,Lenovo,16GB,Intel Core i5,256
-3/10/2022 0:05:15,Female,21 - 30,Undergraduate,Unpaid,HP,12,Intel Core i5,1TB
+3/10/2022 0:05:15,Female,21 - 30,Undergraduate,Unpaid,HP,12GB,Intel Core i5,1TB
 3/10/2022 5:00:50,Female,31 - 40,Teacher,50k - 100k,Dell,4GB,Intel Core i3,512GB
-3/10/2022 6:19:31,Male,21 - 30,Undergraduate,Unpaid,Dell,12,Intel Core i5,1TB
+3/10/2022 6:19:31,Male,21 - 30,Undergraduate,Unpaid,Dell,12GB,Intel Core i5,1TB
 3/10/2022 6:56:17,Female,10 - 20,Student,Unpaid,Dell,8GB,Intel Core i5,256GB
 3/10/2022 7:08:48,Male,21 - 30,Undergraduate,100k - 150k,Dell,8GB,Intel Core i3,1TB
 3/10/2022 7:14:21,Female,21 - 30,Undergraduate,Unpaid,Dell,16GB,Intel Core i3,512GB
