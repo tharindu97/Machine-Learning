@@ -80,7 +80,7 @@ Timestamp,Gender,Age Range,Occupation,Monthly Income Range,Laptop Brand,RAM,Proc
 3/9/2022 17:47:57,Male,10 - 20,Student,Unpaid,Dell,4GB,Intel Core i3,512GB
 3/9/2022 17:48:44,Male,10 - 20,Student,Unpaid,Dell,16GB,Intel Core i5,512GB
 3/9/2022 17:49:51,Female,10 - 20,Student,Unpaid,Dell,4GB,Intel Core i3,512GB
-3/9/2022 17:50:43,Male,10 - 20,Student,Unpaid,Asus,2,celeron,256
+3/9/2022 17:50:43,Male,10 - 20,Student,Unpaid,Asus,2GB,celeron,256GB
 3/9/2022 17:54:02,Male,10 - 20,Student,Unpaid,Toshiba,8GB,Intel Core i7,1TB
 3/9/2022 17:55:19,Male,21 - 30,Undergraduate,Unpaid,Asus,8GB,Intel Core i5,1TB
 3/9/2022 17:58:31,Male,10 - 20,Student,Unpaid,Accer,8GB,Intel Core i5,1TB
@@ -93,9 +93,8 @@ Timestamp,Gender,Age Range,Occupation,Monthly Income Range,Laptop Brand,RAM,Proc
 3/9/2022 18:13:14,Male,10 - 20,Student,10k - 50k,Dell,8GB,Intel Core i3,1TB
 3/9/2022 18:13:19,Male,10 - 20,Student,Unpaid,Dell,4GB,Intel Core i3,1TB
 3/9/2022 18:13:48,Female,10 - 20,Student,Unpaid,Accer,4GB,Intel Core i3,1TB
-3/9/2022 18:15:00,Female,10 - 20,Student,Unpaid,Fujitsu Lifebook A,2 GB,Intel Core i5,243 GB
+3/9/2022 18:15:00,Female,10 - 20,Student,Unpaid,Fujitsu Lifebook A,2GB,Intel Core i5,243 GB
 3/9/2022 18:17:14,Female,10 - 20,Student,Unpaid,Dell,16GB,Intel Core i7,512GB
-3/9/2022 18:17:18,Female,10 - 20,Student,Unpaid,Dell,Idk,Idk,Idk
 3/9/2022 18:27:13,Male,10 - 20,Student,Unpaid,HP,8GB,Intel Core i5,1TB
 3/9/2022 18:27:49,Female,21 - 30,Undergraduate,Unpaid,Dell,4GB,Intel Core i3,512GB
 3/9/2022 18:28:05,Female,10 - 20,Student,Unpaid,Dell,8GB,Intel Core i3,512GB
