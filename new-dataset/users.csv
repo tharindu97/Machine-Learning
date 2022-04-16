@@ -1,0 +1,229 @@
+Timestamp,Model,Age Range,Occupation,Monthly Income Range,Laptop Brand,Gender,RAM,Processor
+3/9/2022 12:59:00,Asus Zenbook 14 UX425,21 - 30,Associate software engineer,50k - 100k,Asus,Male,16GB,Intel Core i5
+3/9/2022 12:59:31,Asus Vivobook Pro 15 OLED ,21 - 30,Associate software engineer,50k - 100k,Asus,Male,8GB,Intel Core i5
+3/9/2022 13:10:18,Dell Inspiron 5510,21 - 30,Undergraduate,Unpaid,Dell,Male,4GB,Intel Core i7
+3/9/2022 13:11:14,MSI GF63 Thin 11UC,21 - 30,Associate software engineer,50k - 100k,MSI,Male,16GB,Intel Core i5
+3/9/2022 13:12:05,Aspire 3,10 - 20,Student,Unpaid,Accer,Male,8GB,Intel Core i5
+3/9/2022 13:12:55,Asus Vivobook Pro 15 OLED ,21 - 30,Undergraduate,Unpaid,Asus,Male,8GB,Intel Core i7
+3/9/2022 13:13:30,Dell Vostro 3400,21 - 30,Associate software engineer,50k - 100k,Dell,Male,8GB,Intel Core i7
+3/9/2022 13:13:30,Asus X515JA,21 - 30,Software engineer,50k - 100k,Asus,Male,16GB,Intel Core i5
+3/9/2022 13:16:47,ACER A515-1135G7,21 - 30,Software engineer,100k - 150k,Accer,Male,16GB,Intel Core i5
+3/9/2022 13:20:31,HP 15s-DU1114Tu,21 - 30,Associate software engineer,10k - 50k,HP,Male,8GB,Intel Core i5
+3/9/2022 13:24:49,Aspire 3,21 - 30,Associate software engineer,10k - 50k,Accer,Male,16GB,Intel Core i7
+3/9/2022 13:27:32,Aspire 3,21 - 30,Undergraduate,Unpaid,Accer,Male,8GB,Dual Core
+3/9/2022 13:28:37,HP 15s-DU1114Tu,21 - 30,Undergraduate,Unpaid,HP,Female,8GB,Intel Core i3
+3/9/2022 13:29:39,HP 15s-DU1114Tu,21 - 30,Software engineer,150k - 200k,HP,Male,8GB,Intel Core i5
+3/9/2022 13:32:56,ACER A515-1135G7,21 - 30,Senior software engineer,10k - 50k,Accer,Male,16GB,Intel Core i7
+3/9/2022 13:34:31,HP 15s-DU1114Tu,21 - 30,Undergraduate,10k - 50k,HP,Male,4GB,Celron
+3/9/2022 13:34:50,Asus Vivobook Pro 15 OLED ,21 - 30,Software engineer,150k - 200k,Asus,Male,16GB,Intel Core i7
+3/9/2022 13:34:52,Dell Vostro 3400,21 - 30,Undergraduate,Unpaid,Dell,Male,8GB,Intel Core i5
+3/9/2022 13:39:09,HP 15s-DU1114Tu,21 - 30,Undergraduate,10k - 50k,HP,Male,8GB,Intel Core i5
+3/9/2022 13:40:54,MacBook Pro,21 - 30,Software engineer,150k - 200k,Apple,Male,8GB,M1
+3/9/2022 13:41:25,ACER A515-1135G7,21 - 30,Undergraduate,Unpaid,Accer,Female,8GB,Intel Core i5
+3/9/2022 13:44:15,ACER A515-1135G7,21 - 30,Undergraduate,Unpaid,Accer,Female,4GB,Intel Core i3
+3/9/2022 13:46:03,HP Victus 16- D0445TX ,21 - 30,Undergraduate,Unpaid,HP,Female,8GB,Intel Core i5
+3/9/2022 13:48:45,MacBook Pro,21 - 30,Undergraduate,10k - 50k,Apple,Male,16GB,Intel Core i7
+3/9/2022 13:52:51,ACER A515-1135G7,21 - 30,Student,10k - 50k,Accer,Female,8GB,Intel Core i5
+3/9/2022 14:00:34,HP Victus 16- D0445TX ,21 - 30,Undergraduate,50k - 100k,HP,Male,16GB,Intel Core i5
+3/9/2022 14:01:33,Asus X515JA,21 - 30,Undergraduate,Unpaid,Asus,Male,16GB,Intel Core i7
+3/9/2022 14:10:48,ACER A515-1135G7,21 - 30,Undergraduate,Unpaid,Accer,Male,4GB,Intel Core i3
+3/9/2022 14:13:27,HP Victus 16- D0445TX ,21 - 30,Undergraduate,Unpaid,HP,Male,8GB,Intel Core i7
+3/9/2022 14:14:11,Asus X515JA,21 - 30,Undergraduate,50k - 100k,Asus,Male,16GB,Intel Core i5
+3/9/2022 14:16:50,Dell Vostro 3400,21 - 30,Undergraduate,10k - 50k,Dell,Male,16GB,Intel Core i7
+3/9/2022 14:24:39,HP Victus 16- D0445TX ,21 - 30,Associate technical lead,10k - 50k,HP,Female,4GB,Dual Core
+3/9/2022 14:26:56,ACER A515-1135G7,21 - 30,Undergraduate,Unpaid,Accer,Male,4GB,Intel Core i3
+3/9/2022 14:33:38,ACER A515-1135G7,21 - 30,Undergraduate,Unpaid,Accer,Female,8GB,Intel Core i5
+3/9/2022 14:34:53,MacBook Pro,21 - 30,Software engineer,150k - 200k,Apple,Female,8GB,M1 Chipset
+3/9/2022 14:38:35,Asus Vivobook Pro 15 OLED ,21 - 30,Undergraduate,Unpaid,Asus,Male,8GB,Intel Core i5
+3/9/2022 14:40:03,Asus Vivobook Pro 15 OLED ,21 - 30,Undergraduate,Unpaid,Asus,Male,16GB,Intel Core i7
+3/9/2022 14:40:57,Asus Vivobook Pro 15 OLED ,21 - 30,Undergraduate,Unpaid,Asus,Male,8GB,Intel Core i5
+3/9/2022 14:41:46,HP 15s-DU1114Tu,21 - 30,Undergraduate,10k - 50k,HP,Male,12GB,Intel Core i5
+3/9/2022 14:57:36,Asus Vivobook Pro 15 OLED ,21 - 30,Associate software engineer,50k - 100k,Asus,Male,8GB,Intel Core i5
+3/9/2022 14:59:06,HP 15s-DU3561TU,21 - 30,Undergraduate,Unpaid,HP,Male,12GB,Intel Core i7
+3/9/2022 15:00:43,HP 15s-DU3561TU,21 - 30,Associate software engineer,50k - 100k,HP,Male,8GB,Intel Core i5
+3/9/2022 15:03:33,Asus Zenbook 14 UX425,21 - 30,Undergraduate,Unpaid,Asus,Female,8GB,Intel Core i5
+3/9/2022 15:06:11,Dell Inspiron 5510,21 - 30,Undergraduate,Unpaid,Dell,Female,4GB,Intel Core i3
+3/9/2022 15:12:15,Asus Zenbook 14 UX425,21 - 30,Undergraduate,50k - 100k,Asus,Male,16GB,Intel Core i7
+3/9/2022 15:13:04,HP 15s-DU3561TU,21 - 30,Teacher,10k - 50k,HP,Female,8GB,Dual Core
+3/9/2022 15:17:58,HP 15s-DU3561TU,21 - 30,Undergraduate,Unpaid,HP,Male,16GB,Intel Core i5
+3/9/2022 15:35:18,Dell Inspiron 5510,21 - 30,Undergraduate,10k - 50k,Dell,Male,4GB,Intel Core i5
+3/9/2022 15:38:39,Dell Inspiron 5511,21 - 30,Undergraduate,10k - 50k,Dell,Female,8GB,AMD Ryzen 7
+3/9/2022 15:46:48,Asus Zenbook 14 UX425,21 - 30,Undergraduate,Unpaid,Asus,Male,8GB,Intel Core i5
+3/9/2022 15:54:44,HP Victus 16- D0445TX ,21 - 30,Undergraduate,Unpaid,HP,Female,32GB,AMD Ryzen 5
+3/9/2022 15:57:39,Dell Vostro 3400,21 - 30,Undergraduate,Unpaid,Dell,Female,8GB,Intel Core i5
+3/9/2022 16:00:31,ACER A515-1135G7,21 - 30,Undergraduate,Unpaid,Accer,Male,4GB,Intel Core i5
+3/9/2022 16:14:18,ACER A515-1135G8,21 - 30,Undergraduate,Unpaid,Accer,Male,8GB,Intel Core i5
+3/9/2022 16:24:33,ACER A515-1135G9,21 - 30,Associate software engineer,50k - 100k,Accer,Male,8GB,Intel Core i5
+3/9/2022 16:25:40,HP Victus 16- D0445TX ,21 - 30,Undergraduate,Unpaid,HP,Male,8GB,AMD Ryzen 7
+3/9/2022 16:41:11,Dell Vostro 3400,21 - 30,Undergraduate,Unpaid,Dell,Female,16GB,Intel Core i3
+3/9/2022 16:43:56,Dell Vostro 3401,21 - 30,Undergraduate,Unpaid,Dell,Male,8GB,Intel Core i7
+3/9/2022 16:46:16,HP Victus 16- D0445TX ,21 - 30,Undergraduate,Unpaid,HP,Male,4GB,Intel Core i5
+3/9/2022 16:48:52,Dell Inspiron 5510,21 - 30,Undergraduate,Unpaid,Dell,Male,4GB,Intel Core i3
+3/9/2022 16:53:59,Asus X515JA,21 - 30,Undergraduate,Unpaid,Asus,Female,8GB,Intel Core i5
+3/9/2022 16:55:14,HP Victus 16- D0445TX ,21 - 30,Student,Unpaid,HP,Female,8GB,Intel Core i5
+3/9/2022 16:58:13,Dell Inspiron 5510,21 - 30,Undergraduate,Unpaid,Dell,Female,8GB,Intel Core i7
+3/9/2022 16:58:22,Dell Inspiron 5510,21 - 30,Undergraduate,Unpaid,Dell,Male,4GB,Dual Core
+3/9/2022 17:12:57,HP Victus 16- D0445TX ,21 - 30,Undergraduate,Unpaid,HP,Male,4GB,Intel Core i3
+3/9/2022 17:17:19,HP Victus 16- D0445TX ,21 - 30,Student,10k - 50k,HP,Male,4GB,AMD Ryzen 3
+3/9/2022 17:18:48,Chromebook 3,21 - 30,Undergraduate,Unpaid,Samsung,Female,4GB,Intel Core i5
+3/9/2022 17:19:33,HP 15s-DU1114Tu,21 - 30,Student,Unpaid,HP,Male,4GB,Intel Core i5
+3/9/2022 17:28:16,HP 15s-DU1114Tu,10 - 20,Student,Unpaid,HP,Male,4GB,Intel Core i3
+3/9/2022 17:29:58,HP 15s-DU1114Tu,10 - 20,Student,Unpaid,HP,Male,4GB,Intel Core i3
+3/9/2022 17:30:17,ACER A515-1135G7,10 - 20,Student,Unpaid,Accer,Female,8GB,Intel Core i3
+3/9/2022 17:32:14,HP Victus 16- D0445TX,10 - 20,Student,Unpaid,HP,Male,4GB,Intel Core i7
+3/9/2022 17:34:26,HP Victus 16- D0445TX,10 - 20,Student,Unpaid,HP,Female,4GB,Intel Core i5
+3/9/2022 17:37:56,HP Victus 16- D0445TX,10 - 20,Student,Unpaid,HP,Female,16GB,Intel Core i3
+3/9/2022 17:41:32,Dell Vostro 3400,21 - 30,Senior software engineer,More than 250k,Dell,Male,8GB,Intel Core i7
+3/9/2022 17:44:15,Dell Vostro 3401,21 - 30,Undergraduate,10k - 50k,Dell,Male,4GB,Intel Core i3
+3/9/2022 17:45:24,Lenovo Legion 3,10 - 20,Student,Unpaid,Lenovo,Male,4GB,Intel Core i3
+3/9/2022 17:47:02,Dell Inspiron 5510,10 - 20,Student,Unpaid,Dell,Female,8GB,Intel Core i3
+3/9/2022 17:47:57,Dell Vostro 3400,10 - 20,Student,Unpaid,Dell,Male,4GB,Intel Core i3
+3/9/2022 17:48:44,Dell Inspiron 5511,10 - 20,Student,Unpaid,Dell,Male,16GB,Intel Core i5
+3/9/2022 17:49:51,Dell Vostro 3401,10 - 20,Student,Unpaid,Dell,Female,4GB,Intel Core i3
+3/9/2022 17:50:43,Asus X515JA,10 - 20,Student,Unpaid,Asus,Male,2GB,celeron
+3/9/2022 17:54:02,Satellite Pro,10 - 20,Student,Unpaid,Toshiba,Male,8GB,Intel Core i7
+3/9/2022 17:55:19,Asus Zenbook 14 UX425,21 - 30,Undergraduate,Unpaid,Asus,Male,8GB,Intel Core i5
+3/9/2022 17:58:31,ACER A515-1135G7,10 - 20,Student,Unpaid,Accer,Male,8GB,Intel Core i5
+3/9/2022 17:59:06,HP Victus 16- D0445TX,10 - 20,Student,Unpaid,HP,Male,4GB,Dual Core
+3/9/2022 17:59:44,Aspire 3,10 - 20,Student,Unpaid,Accer,Male,4GB,Intel Core i5
+3/9/2022 18:01:11,Dell Vostro 3400,10 - 20,Student,Unpaid,Dell,Male,4GB,Intel Core i3
+3/9/2022 18:06:43,Asus X515JA,10 - 20,Student,Unpaid,Asus,Female,8GB,Intel Core i7
+3/9/2022 18:10:38,ACER A515-1135G7,10 - 20,Student,10k - 50k,Accer,Male,4GB,Intel Core i5
+3/9/2022 18:11:29,Singer S457-1139G6,10 - 20,Student,Unpaid,Singer,Female,2GB,Intel(R) Celeron(R) CPU 1037U
+3/9/2022 18:13:14,Dell Inspiron 5510,10 - 20,Student,10k - 50k,Dell,Male,8GB,Intel Core i3
+3/9/2022 18:13:19,Dell Vostro 3400,10 - 20,Student,Unpaid,Dell,Male,4GB,Intel Core i3
+3/9/2022 18:13:48,ACER A515-1135G7,10 - 20,Student,Unpaid,Accer,Female,4GB,Intel Core i3
+3/9/2022 18:15:00,FL 3400-11369,10 - 20,Student,Unpaid,Fujitsu Lifebook A,Female,2GB,Intel Core i5
+3/9/2022 18:17:14,Dell Vostro 3400,10 - 20,Student,Unpaid,Dell,Female,16GB,Intel Core i7
+3/9/2022 18:27:13,HP 15s-DU1114Tu,10 - 20,Student,Unpaid,HP,Male,8GB,Intel Core i5
+3/9/2022 18:27:49,Dell Vostro 3400,21 - 30,Undergraduate,Unpaid,Dell,Female,4GB,Intel Core i3
+3/9/2022 18:28:05,Dell Vostro 3400,10 - 20,Student,Unpaid,Dell,Female,8GB,Intel Core i3
+3/9/2022 18:29:23,HP 15s-DU3561TU,10 - 20,Student,Unpaid,HP,Female,16GB,Intel Core i7
+3/9/2022 18:34:11,HP 15s-DU1114Tu,21 - 30,Undergraduate,Unpaid,HP,Female,4GB,Intel Core i5
+3/9/2022 18:34:40,ACER A515-1135G7,10 - 20,Student,Unpaid,Accer,Female,4GB,Intel Core i3
+3/9/2022 18:46:14,Asus Vivobook Pro 15 OLED,21 - 30,Undergraduate,10k - 50k,Asus,Male,16GB,Intel Core i7
+3/9/2022 18:47:10,Dell Inspiron 5510,10 - 20,Student,Unpaid,Dell,Male,4GB,Intel Core i3
+3/9/2022 18:48:38,Dell Vostro 3400,21 - 30,Undergraduate,Unpaid,Dell,Female,4GB,Intel Core i3
+3/9/2022 18:50:45,Dell Inspiron 5511,21 - 30,Undergraduate,Unpaid,Dell,Male,8GB,Intel Core i7
+3/9/2022 19:13:45,HP Victus 16- D0445TX,21 - 30,Student,Unpaid,HP,Male,4GB,Intel Core i5
+3/9/2022 19:20:02,Dell Vostro 3400,21 - 30,Undergraduate,Unpaid,Dell,Male,8GB,Intel Core i7
+3/9/2022 19:42:53,ACER A515-1135G7,10 - 20,Student,Unpaid,Accer,Female,4GB,Intel Core i3
+3/9/2022 19:48:31,Dell Inspiron 5510,10 - 20,Student,Unpaid,Dell,Female,16GB,Dual Core
+3/9/2022 19:52:50,HP 15s-DU3561TU,10 - 20,Student,Unpaid,HP,Male,4GB,Intel Core i3
+3/9/2022 19:57:30,HP 15s-DU1114Tu,10 - 20,Student,Unpaid,HP,Female,32GB,Intel Core i5
+3/9/2022 19:57:56,HP Victus 16- D0445TX ,21 - 30,Undergraduate,Unpaid,HP,Female,16GB,AMD Ryzen 7
+3/9/2022 20:00:20,ACER A515-1135G7,21 - 30,Undergraduate,Unpaid,Acer,Male,8GB,Intel Core i5
+3/9/2022 20:01:37,HP 15s-DU3561TU,10 - 20,Student,Unpaid,HP,Female,4GB,Intel Core i3
+3/9/2022 20:26:22,HP 15s-DU1114Tu,21 - 30,Undergraduate,Unpaid,HP,Female,8GB,Intel Core i5
+3/9/2022 20:33:49,HP Victus 16- D0445TX ,21 - 30,Undergraduate,50k - 100k,HP,Male,8GB,Intel Core i5
+3/9/2022 20:34:48,ACER A515-1135G7,10 - 20,Student,Unpaid,Accer,Male,8GB,Intel Core i5
+3/9/2022 20:41:44,HP 15s-DU3561TU,10 - 20,Student,Unpaid,HP,Male,4GB,Intel Core i3
+3/9/2022 21:12:11,Asus Vivobook Pro 15 OLED,21 - 30,Undergraduate,Unpaid,Asus,Male,8GB,Intel Core i7
+3/9/2022 21:14:18,HP 15s-DU3561TU,10 - 20,Student,Unpaid,HP,Female,16GB,Dual Core
+3/9/2022 21:19:04,Dell Inspiron 5510,21 - 30,Undergraduate,10k - 50k,Dell,Female,8GB,Intel Core i3
+3/9/2022 21:25:20,Asus Vivobook Pro 15 OLED,21 - 30,Undergraduate,Unpaid,Asus,Female,4GB,Intel Core i3
+3/9/2022 21:26:30,Lenovo Legion 3,21 - 30,Undergraduate,Unpaid,Lenovo,Female,16GB,Intel Core i3
+3/9/2022 21:27:45,Lenovo Legion 3,21 - 30,DevOps Engineer ,More than 250k,Lenovo,Male,16GB,Intel Core i7
+3/9/2022 21:27:57,Asus Zenbook 14 UX425,21 - 30,Undergraduate,10k - 50k,Asus,Male,8GB,Intel Core i3
+3/9/2022 21:31:53,Dell Inspiron 5510,21 - 30,Undergraduate,Unpaid,Dell,Male,12 GB,Intel Core i5
+3/9/2022 21:38:17,Dell Vostro 3400,10 - 20,Student,Unpaid,Dell,Female,16GB,Dual Core
+3/9/2022 21:45:28,MacBook Pro,21 - 30,Senior software engineer,More than 250k,Apple,Male,16GB,Intel Core i7
+3/9/2022 21:46:07,Asus Vivobook Pro 15 OLED,10 - 20,Student,Unpaid,Asus,Male,8GB,Intel Core i3
+3/9/2022 21:51:11,Asus Zenbook 14 UX425,21 - 30,Undergraduate,Unpaid,Asus,Male,12GB,Intel Core i3
+3/9/2022 21:56:57,Dell Vostro 3400,10 - 20,Student,Unpaid,Dell,Female,8GB,AMD Ryzen 5
+3/9/2022 22:03:10,MSI GF63 Thin 11UC,21 - 30,Undergraduate,Unpaid,MSI,Male,8GB,Intel Core i7
+3/9/2022 22:07:33,Asus Zenbook 14 UX425,21 - 30,Undergraduate,10k - 50k,Asus,Male,8GB,Intel Core i5
+3/9/2022 22:07:56,HP 15s-DU3561TU,21 - 30,Software engineer,More than 250k,HP,Male,8GB,Intel Core i7
+3/9/2022 22:17:56,Aspire 3,21 - 30,Senior software engineer,100k - 150k,Accer,Male,16GB,Intel Core i5
+3/9/2022 22:31:33,Asus Zenbook 14 UX425,21 - 30,Undergraduate,Unpaid,Asus,Male,8GB,Intel Core i5
+3/9/2022 22:35:16,Aspire 3,21 - 30,Undergraduate,Unpaid,Accer,Male,8GB,Intel Core i7
+3/9/2022 22:40:47,Aspire 3,21 - 30,Undergraduate,Unpaid,Accer,Female,12GB,Intel Core i5
+3/9/2022 22:53:42,MacBook Pro,21 - 30,Software engineer,More than 250k,Apple,Male,16GB,M1 Pro
+3/9/2022 22:55:04,Lenovo Legion 3,21 - 30,Software engineer,More than 250k,Lenovo,Male,16GB,Intel Core i7
+3/9/2022 23:00:23,HP 15s-DU3561TU,21 - 30,Public Service Officer ,10k - 50k,HP,Female,8GB,Dual Core
+3/9/2022 23:24:46,Lenovo Legion 3,21 - 30,Technical lead,More than 250k,Lenovo,Male,16GB,Intel Core i5
+3/10/2022 0:05:15,HP 15s-DU3561TU,21 - 30,Undergraduate,Unpaid,HP,Female,12GB,Intel Core i5
+3/10/2022 5:00:50,Dell Inspiron 5510,31 - 40,Teacher,50k - 100k,Dell,Female,4GB,Intel Core i3
+3/10/2022 6:19:31,Dell Vostro 3400,21 - 30,Undergraduate,Unpaid,Dell,Male,12GB,Intel Core i5
+3/10/2022 6:56:17,Dell Inspiron 5511,10 - 20,Student,Unpaid,Dell,Female,8GB,Intel Core i5
+3/10/2022 7:08:48,Dell Vostro 3401,21 - 30,Undergraduate,100k - 150k,Dell,Male,8GB,Intel Core i3
+3/10/2022 7:14:21,Dell Inspiron 5512,21 - 30,Undergraduate,Unpaid,Dell,Female,16GB,Intel Core i3
+3/10/2022 7:15:27,Aspire 3,10 - 20,Student,Unpaid,Accer,Female,8GB,Intel Core i5
+3/10/2022 7:16:52,Dell Inspiron 5510,10 - 20,Student,Unpaid,Dell,Female,16GB,Intel Core i3
+3/10/2022 8:28:11,Dell Vostro 3400,21 - 30,Undergraduate,Unpaid,Dell,Female,4GB,AMD Ryzen 3
+3/10/2022 8:57:26,Asus Zenbook 14 UX425,21 - 30,Student,Unpaid,Asus,Male,4GB,Intel Core i3
+3/10/2022 9:06:25,Dell Vostro 3400,10 - 20,Student,Unpaid,Dell,Female,4GB,Intel Core i5
+3/10/2022 9:12:11,HP 15s-DU3561TU,10 - 20,Student,Unpaid,HP,Male,4GB,Intel Core i3
+3/10/2022 9:32:03,HP 15s-DU1114Tu,21 - 30,Undergraduate,Unpaid,HP,Female,16GB,Intel Core i5
+3/10/2022 9:38:55,HP Victus 16- D0445TX,21 - 30,Undergraduate,10k - 50k,HP,Female,8GB,Intel Core i5
+3/10/2022 10:55:24,Asus Vivobook Pro 15 OLED,21 - 30,Business Operations Manager,50k - 100k,Asus,Male,12GB,Intel Core i7
+3/10/2022 11:01:17,HP 15s-DU1114Tu,31 - 40,QA engineer,50k - 100k,HP,Female,8GB,Intel Core i7
+3/10/2022 11:21:42,HP Victus 16- D0445TX ,21 - 30,Undergraduate,10k - 50k,HP,Male,8GB,Intel Core i5
+3/10/2022 15:50:29,Satellite Pro,10 - 20,Student,Unpaid,Toshiba,Female,4GB,Intel Core i3
+3/10/2022 15:52:49,Dell Vostro 3400,10 - 20,Student,Unpaid,Dell,Female,16GB,Intel Core i3
+3/10/2022 16:10:59,HP 15s-DU1114Tu,10 - 20,Student,Unpaid,HP,Female,8GB,Intel Core i5
+3/10/2022 16:33:10,Dell Vostro 3400,21 - 30,Teacher,10k - 50k,Dell,Male,4GB,Intel Core i3
+3/10/2022 20:11:46,Aspire 3,10 - 20,Student,Unpaid,Accer,Male,8GB,Intel Core i3
+3/10/2022 20:53:06,HP 15s-DU1114Tu,10 - 20,Student,Unpaid,HP,Female,16GB,Intel Core i5
+3/11/2022 12:31:40,Dell Inspiron 5510,10 - 20,Student,Unpaid,Dell,Male,4GB,Intel Core i3
+3/11/2022 14:09:00,Dell Vostro 3400,41 - 50,Teacher,100k - 150k,Dell,Female,8GB,Intel Core i3
+3/11/2022 16:13:22,Dell Inspiron 5511,10 - 20,Student,Unpaid,Dell,Male,12GB,Intel Core i5
+3/11/2022 17:51:02,Dell Vostro 3401,31 - 40,Senior software engineer,More than 250k,Dell,Male,16GB,Intel Core i7
+3/11/2022 17:55:05,Dell Inspiron 5511,21 - 30,QA engineer,50k - 100k,Dell,Female,8GB,Intel Core i5
+3/11/2022 19:54:47,HP Victus 16- D0445TX,10 - 20,Student,Unpaid,HP,Female,4GB,Dual Core
+3/11/2022 23:36:44,MacBook Pro,21 - 30,Undergraduate,100k - 150k,Apple,Male,8GB,M1 
+3/11/2022 23:50:49,Dell Inspiron 5510,21 - 30,Undergraduate,Unpaid,Dell,Male,8GB,Intel Core i5
+3/12/2022 2:54:19,Dell Vostro 3400,21 - 30,Software engineer,100k - 150k,Dell,Male,8GB,Intel Core i5
+3/12/2022 11:40:03,Dell Inspiron 5511,10 - 20,Student,Unpaid,Dell,Female,8GB,Intel Core i5
+3/13/2022 20:48:27,HP Victus 16- D0445TX,31 - 40,UI/UX engineer,100k - 150k,HP,Male,8GB,Intel Core i5
+3/15/2022 13:30:25,Aspire 3,21 - 30,Student,Unpaid,Accer,Female,12GB,Intel Core i3
+3/15/2022 17:41:42,HP 15s-DU1114Tu,10 - 20,Student,Unpaid,HP,Male,4GB,Intel Core i3
+3/15/2022 17:55:31,HP Victus 16- D0445TX,10 - 20,Student,Unpaid,HP,Male,11GB,AMD Ryzen 3
+3/15/2022 23:33:00,Asus Vivobook Pro 15 OLED ,21 - 30,Teacher,50k - 100k,Asus,Female,8GB,Intel Core i5
+3/15/2022 23:36:14,Lenovo Legion 5,21 - 30,Senior software engineer,200k - 250k,Lenovo,Male,16GB,Intel Core i7
+3/17/2022 13:13:22,Dell Vostro 3400,21 - 30,Software engineer,100k - 150k,Dell,Male,8GB,Intel Core i5
+3/17/2022 13:23:35,Lenovo Legion 5,31 - 40,Technical lead,More than 250k,Lenovo,Female,8GB,AMD Ryzen 5
+3/17/2022 13:25:01,Dell Vostro 3400,31 - 40,Associate technical lead,More than 250k,Dell,Female,8GB,AMD Ryzen 5
+3/17/2022 13:27:08,Lenovo Legion 5,31 - 40,Technical lead,More than 250k,Lenovo,Male,8GB,Intel Core i5
+3/17/2022 13:29:08,Dell Vostro 3400,31 - 40,Associate technical lead,More than 250k,Dell,Male,8GB,Intel Core i5
+3/17/2022 13:29:59,Lenovo Legion 5,31 - 40,Technical lead,More than 250k,Lenovo,Male,8GB,AMD Ryzen 5
+3/17/2022 13:31:14,HP 15s-DU1114Tu,31 - 40,Associate software engineer,100k - 150k,HP,Male,8GB,AMD Ryzen 5
+3/17/2022 13:32:53,Lenovo Legion 5,31 - 40,Associate technical lead,More than 250k,Lenovo,Male,8GB,Intel Core i5
+3/17/2022 13:34:16,HP 15s-DU1114Tu,31 - 40,Technical lead,More than 250k,HP,Male,8GB,Intel Core i5
+3/17/2022 13:35:14,HP 15s-DU1114Tu,31 - 40,Associate technical lead,More than 250k,HP,Male,8GB,Intel Core i5
+3/17/2022 13:36:22,Dell Inspiron 5510,31 - 40,Technical lead,More than 250k,Dell,Female,8GB,AMD Ryzen 5
+3/17/2022 13:37:30,Dell Vostro 3400,31 - 40,Technical lead,More than 250k,Dell,Female,8GB,Intel Core i5
+3/17/2022 13:39:21,Dell Inspiron 5511,31 - 40,Associate technical lead,More than 250k,Dell,Female,8GB,AMD Ryzen 5
+3/17/2022 13:40:51,Dell Vostro 3401,21 - 30,Senior software engineer,200k - 250k,Dell,Male,8GB,AMD Ryzen 5
+3/17/2022 13:42:13,HP 15s-DU1114Tu,21 - 30,Software engineer,150k - 200k,HP,Male,8GB,Intel Core i5
+3/17/2022 13:43:59,Dell Inspiron 5510,21 - 30,Senior software engineer,200k - 250k,Dell,Female,8GB,AMD Ryzen 5
+3/17/2022 13:45:20,HP 15s-DU1114Tu,31 - 40,Software engineer,150k - 200k,HP,Female,8GB,AMD Ryzen 5
+3/17/2022 13:46:16,Dell Inspiron 5510,21 - 30,Software engineer,150k - 200k,Dell,Female,8GB,Intel Core i5
+3/17/2022 13:47:23,Dell Vostro 3400,21 - 30,Senior software engineer,200k - 250k,Dell,Male,8GB,AMD Ryzen 5
+3/17/2022 13:48:21,HP 15s-DU1114Tu,21 - 30,Software engineer,150k - 200k,HP,Male,8GB,Intel Core i5
+3/17/2022 13:49:47,HP Victus 16- D0445TX ,21 - 30,Senior software engineer,150k - 200k,HP,Female,8GB,AMD Ryzen 5
+3/17/2022 13:50:57,Dell Inspiron 5509,21 - 30,Software engineer,150k - 200k,Dell,Female,8GB,Intel Core i5
+3/17/2022 13:52:37,Dell Vostro 3399,21 - 30,Senior software engineer,200k - 250k,Dell,Male,8GB,Intel Core i5
+3/17/2022 13:54:10,Dell Inspiron 5510,21 - 30,Senior software engineer,200k - 250k,Dell,Female,8GB,Intel Core i5
+3/17/2022 13:59:15,Dell Vostro 3400,21 - 30,QA engineer,50k - 100k,Dell,Female,8GB,AMD Ryzen 5
+3/17/2022 14:03:53,ACER A515-1135G7,21 - 30,QA engineer,50k - 100k,Accer,Female,8GB,Intel Core i5
+3/17/2022 15:47:51,Asus Zenbook 14 UX425,21 - 30,Associate software engineer,50k - 100k,Asus,Female,8GB,AMD Ryzen 5
+3/17/2022 15:48:33,Asus Vivobook Pro 15 OLED ,21 - 30,Software engineer,100k - 150k,Asus,Male,16GB,AMD Ryzen 7
+3/17/2022 15:49:16,Asus Vivobook Pro 15 OLED ,21 - 30,Associate technical lead,200k - 250k,Asus,Male,16GB,Intel Core i7
+3/17/2022 15:49:58,Dell Vostro 3400,21 - 30,UI/UX engineer,100k - 150k,Dell,Female,8GB,AMD Ryzen 5
+3/17/2022 15:51:27,Lenovo Legion 5,21 - 30,Senior software engineer,More than 250k,Lenovo,Male,8GB,AMD Ryzen 7
+3/17/2022 15:53:37,Dell Inspiron 5510,21 - 30,Senior software engineer,200k - 250k,Dell,Male,16GB,AMD Ryzen 5
+3/17/2022 15:54:23,Asus Vivobook Pro 15 OLED ,21 - 30,Software engineer,100k - 150k,Asus,Male,8GB,Intel Core i5
+3/17/2022 15:55:38,MacBook Air,21 - 30,UI/UX engineer,150k - 200k,Apple,Female,8GB,M2
+3/17/2022 15:57:02,HP Victus 16- D0445TX ,31 - 40,Doctor,100k - 150k,HP,Male,8GB,AMD Ryzen 5
+3/17/2022 16:00:13,Dell Vostro 3400,21 - 30,Senior software engineer,150k - 200k,Dell,Female,8GB,AMD Ryzen 7
+3/17/2022 16:04:29,HP Victus 16- D0445TX ,31 - 40,Teacher,10k - 50k,HP,Male,4GB,Dual Core
+3/17/2022 16:05:29,Aspire 3,31 - 40,Doctor,100k - 150k,Accer,Female,8GB,Intel Core i5
+3/17/2022 16:06:31,HP Victus 16- D0445TX ,41 - 50,Teacher,50k - 100k,HP,Female,4GB,Intel Core i3
+3/17/2022 16:07:16,Lenovo Legion 5,41 - 50,Teacher,50k - 100k,Lenovo,Male,8GB,AMD Ryzen 3
+3/17/2022 16:11:27,Satellite Pro,31 - 40,Doctor,100k - 150k,Toshiba,Male,8GB,Intel Core i5
+3/17/2022 16:12:26,Aspire 3,31 - 40,Teacher,50k - 100k,Accer,Male,4GB,Intel Core i3
+3/17/2022 16:13:00,HP Victus 16- D0445TX ,31 - 40,Doctor,50k - 100k,HP,Male,4GB,Intel Core i3
+3/17/2022 16:13:51,Asus X515JA,41 - 50,Teacher,50k - 100k,Asus,Female,8GB,Intel Core i5
+3/17/2022 16:15:52,Asus X515JA,31 - 40,Teacher,50k - 100k,Asus,Female,16GB,AMD Ryzen 7
+3/17/2022 20:14:11,Dell Vostro 3400,10 - 20,Student,Unpaid,Dell,Male,4GB,Intel Core i5
